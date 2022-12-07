@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/vijay0306/vijay-2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
